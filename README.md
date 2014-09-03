@@ -1,4 +1,4 @@
-AffinityLive API (PHP)
+AffinityLive API Contact Form (PHP)
 ===================
 
 This is an extremely basic implementation of the AffinityLive API to create new contacts via a webpage contact form.
