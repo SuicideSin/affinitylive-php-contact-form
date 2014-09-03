@@ -3,6 +3,11 @@ AffinityLive API (PHP)
 
 This is an extremely basic implementation of the AffinityLive API to create new contacts via a webpage contact form.
 
+Contributors
+------------
+- Initial development by [Will Bradley](http://www.zyphon.com)
+- Financed and provided to you by [AccountingProse, Small Business Bookkeeping](http://www.accountingprose.com)
+
 Prerequisites
 -------------
 - CURL, including CURL for PHP
