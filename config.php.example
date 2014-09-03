@@ -1,0 +1,7 @@
+<?php
+
+// your configuration values from AffinityLive API
+$clientID = "YOUR_ID_HERE@YOUR_DOMAIN_HERE.affinitylive.com";
+$clientSecret = "YOUR_SECRET_HERE";
+$clientURL = "https://YOUR_DOMAIN_HERE.api.affinitylive.com";
+

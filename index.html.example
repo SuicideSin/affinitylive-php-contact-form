@@ -1,0 +1,38 @@
+
+
+<form method="POST" action="affinitylive.php">
+
+    <fieldset class="checkbox">
+
+        <legend>I need:</legend>
+
+        <label>
+            <input type="checkbox" name="selection[]" value="quote">
+            A Quote
+        </label>
+
+        <label>
+            <input type="checkbox" name="selection[]" value ="help">
+            Help
+        </label>
+
+    </fieldset>
+
+    <fieldset class ="user-input">
+
+        <legend>Contact Info:</legend>
+
+        <input type="text" name="company_name" class="input" placeholder="Company Name">
+
+        <input type="text" name="contact_firstname" class="input"  placeholder="First Name">
+
+        <input type="text" name="contact_surname" class="input"  placeholder="Last Name">
+
+        <input type="email" name="email" class="input" placeholder="Email">
+
+        <input type="tel" name="phone_number" class="input" placeholder="Phone Number">
+
+        <div><button name="submit">Submit</button></div>
+
+    </fieldset>
+</form>
