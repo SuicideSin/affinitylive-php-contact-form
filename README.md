@@ -5,8 +5,10 @@ This is an extremely basic implementation of the AffinityLive API to create new 
 
 Contributors
 ------------
-- Initial development by [Will Bradley](http://www.zyphon.com) and Umesh Phuyal, with help from [Chris Williams](https://groups.google.com/forum/#!searchin/al-devel/umesh/al-devel/-At9O-jfBmc/H_6_cnA6EAwJ) and the AffinityLive forums and support team.
-- Financed and provided to you by [AccountingProse, Small Business Bookkeeping](http://www.accountingprose.com)
+- Initial development by Umesh Phuyal
+- Modified to its current form by [Will Bradley](http://www.zyphon.com)
+- Special thanks for parts provided by [Chris Williams](https://groups.google.com/forum/#!searchin/al-devel/umesh/al-devel/-At9O-jfBmc/H_6_cnA6EAwJ) and the AffinityLive forums and support team.
+- Financed and opensourced by [AccountingProse, Small Business Bookkeeping](http://www.accountingprose.com)
 
 Prerequisites
 -------------
